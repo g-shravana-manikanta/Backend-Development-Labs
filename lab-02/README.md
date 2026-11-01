@@ -4,7 +4,7 @@
 
 - **Name:** Gurram Shravana Manikanta
 - **Branch:** CSE (AIML)
-- **Section:** 1B
+- **Section:** 2B
 - **Lab:** 02 – SQLite Database and CRUD Routes
 
 ## Live Deployment
@@ -85,7 +85,7 @@ npm install
 Start the development server:
 
 ```bash
-npm run dev
+nodemon index.js
 ```
 
 The local server runs at:
@@ -111,7 +111,7 @@ http://localhost:3000/
   "title": "The Psychology of Money",
   "author": "Morgan Housel",
   "price": 450,
-  "pages": 250
+  "pages": 220
 }
 ```
 
