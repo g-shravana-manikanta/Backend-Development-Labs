@@ -1,7 +1,7 @@
 # Lab 1: Node.js and Express Server
 **Name:** Gurram Shravana Manikanta  
 **Registration Number:** 252U1R6094  
-**Section:** CSE AIML 1B
+**Section:** CSE AIML 2B
 
 
 ## Live Link
