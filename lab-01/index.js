@@ -10,7 +10,7 @@ app.get('/about', (request, response) => {
     response.status(200).json({
         name: 'Gurram Shravana Manikanta',
         'Registration number': "252U1R6094",
-        section: 'CSE AIML 1B'
+        section: 'CSE AIML 2B'
     });
 });
 
