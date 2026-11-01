@@ -16,6 +16,29 @@ To understand Node.js fundamentals and build a web server using the built-in HTT
 - Express.js
 - JavaScript
 
+## Project Structure
+
+```text
+lab-01/
+│
+├── node_modules/          # Installed dependencies
+│
+├── screenshots/           # Screenshots of API responses
+│   ├── home.png
+│   ├── about.png
+│   ├── time.png
+│   └── 404.png
+│
+├── .gitignore             # Files ignored by Git
+├── http-server.js         # Basic Node.js HTTP server
+├── index.js               # Express server and API routes
+├── package.json           # Project configuration and dependencies
+├── package-lock.json      # Dependency version lock file
+└── README.md              # Project documentation
+```
+
+**Note:** `node_modules/` is generated automatically when dependencies are installed using `npm install` and is not committed to GitHub.
+
 ## Installation and Execution
 
 1. Clone the repository.
