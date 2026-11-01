@@ -5,7 +5,8 @@
 
 
 ## Live Link
-Not deployed yet.
+https://backend-development-lab-01-6sbj.onrender.com
+Deployes using render platform successfully
 
 ## Objective
 To understand Node.js fundamentals and build a web server using the built-in HTTP module and Express.js.
@@ -59,5 +60,3 @@ node index.js
 ## Notes
 Implemented a basic HTTP server using Node.js and recreated it using Express.js. Learned routing, handling requests and responses, HTTP status codes, and 404 error handling.
 
-## Problems Faced and Solutions
-No Problems Faced.
