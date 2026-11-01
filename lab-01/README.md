@@ -6,7 +6,7 @@
 
 ## Live Link
 https://backend-development-lab-01-6sbj.onrender.com
-Deployes using render platform successfully
+Deployed using render platform successfully
 
 ## Objective
 To understand Node.js fundamentals and build a web server using the built-in HTTP module and Express.js.
