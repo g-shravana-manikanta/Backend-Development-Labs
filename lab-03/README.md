@@ -3,14 +3,12 @@
 ## Student Details
 
 - **Name:** Gurram Shravana Manikanta
-- **Registration Number:** [Enter your registration number]
-- **Section:** CSE AIML – 1B
+- **Registration Number:** 252U1R6094
+- **Section:** CSE AIML – 2B
 
 ## Live Link
 
-[Enter your Render deployment URL]
-
-If deployment is not completed, write: `Not applicable – Deployment not completed.`
+- **Live API URL:** https://backend-development-lab-03-yhgl.onrender.com/books/
 
 ## Project Description
 
@@ -104,7 +102,7 @@ Postman screenshots demonstrating the API operations and validation responses ar
 ![Search and Filtering](screenshots/search-filter.png)
 
 ### Min-Max Price Range using Between
-![Min-Max Price Range using Between](screenshots/Min-Max Price Range using Between.png)
+![Min-Max Price Range using Between](screenshots/Min-Max-Price-Range-using-Between.png)
 
 ### POST Book
 ![POST Book](screenshots/post-book.png)
