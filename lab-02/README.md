@@ -111,7 +111,7 @@ http://localhost:3000/
   "title": "The Psychology of Money",
   "author": "Morgan Housel",
   "price": 450,
-  "pages": 220
+  "pages": 250
 }
 ```
 
