@@ -219,7 +219,7 @@ The Postman screenshots demonstrating successful and unsuccessful registration a
 ![User Registration – Successful](screenshots/user-registration-successful.png)
 
 ### 2. User Registration – Existing Username
-1[User Registration – Existing Username](screenshots/user-registration-existing-username.png)
+![User Registration – Existing Username](screenshots/user-registration-existing-username.png)
 
 ### 3. User Login – Successful
 ![User Login – Successful](screenshots/user-login-successful.png)
